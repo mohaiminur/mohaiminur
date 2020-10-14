@@ -25,23 +25,12 @@ I know Java , JavaScript/TypeScript, Php, Kotlin, C++ and C but I am expert and 
 
 
 - Programming: Java, JavaScript, TypeScript, Php, C++, C
-
 - Backend: Spring Boot, Hibernate, Restful Services, Microservices
-
 - Frontend: Angular, Bootstrap, HTML5, CSS3, Android
-
 - Database: MySQL, PostgreSQL, Firebase
-
 - Build tools: Maven, Gradle
-
 - TDD: JUnit, Mockito
-
-- Version Control: GitHub
-
-- Cloud: AWS(EC2, CodeStar) 
-
-- Operating System: Windows, Linux
-
+- Other: Maven, GitHub, AWS(EC2, CodeStar), Linux
 - IDE: Eclipse, IntelliJ, Visual Studio Code
 
 
