@@ -29,8 +29,8 @@ I know Java , JavaScript/TypeScript, Php, Kotlin, C++ and C but I am expert and 
 - Frontend: Angular, Bootstrap, HTML5, CSS3, Android
 - Database: MySQL, PostgreSQL, Firebase
 - TDD: JUnit, Mockito
-- Other Tech: Maven, Gradle, GitHub, AWS(EC2, CodeStar), Linux
-- IDE: Eclipse, IntelliJ, Visual Studio Code
+- Other Tech: Maven, GitHub, AWS(EC2, CodeStar), Linux
+
 
 
 #### Happy coding!
