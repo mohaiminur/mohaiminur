@@ -18,7 +18,7 @@ I know Java , JavaScript/TypeScript, Php, Kotlin, C++ and C but I am expert and 
 - 🌱 <b>Getting better at:</b> Java, TypeScript/JavaScript
 - 🤔 <b>Exploring:</b> Docker, Microservices
 - 💬 <b>Ask me about:</b> Java, Javascript, Japanese, Sports
-- 📫 How to reach me: ...[Facebook](https://www.facebook.com/mohaiminur404/)
+- 📫 <b>How to reach me:</b> ...[Facebook](https://www.facebook.com/mohaiminur404/)
 
 ### My Stacks
 
