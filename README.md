@@ -23,24 +23,27 @@ I know Java , JavaScript/TypeScript, Php, Kotlin, C++ and C but I am expert and 
 ### My Stacks
 
 
-```md
-Programming: Java, JavaScript, TypeScript, Php, C++, C
 
-Backend: Spring Boot, Hibernate, Restful Services, Microservices
+- Programming: Java, JavaScript, TypeScript, Php, C++, C
 
-Frontend: Angular, Bootstrap, HTML5, CSS3, Android
+- Backend: Spring Boot, Hibernate, Restful Services, Microservices
 
-Database: Oracle, MySQL, Firebase
+- Frontend: Angular, Bootstrap, HTML5, CSS3, Android
 
-Build tools: Maven, Gradle
+- Database: MySQL, PostgreSQL, Firebase
 
-TDD: JUnit, Mockito
+- Build tools: Maven, Gradle
 
-Version Control: GitHub
+- TDD: JUnit, Mockito
 
-IDE: Eclipse, IntelliJ, Visual Studio Code
+- Version Control: GitHub
 
-```
+- Cloud: AWS(EC2, CodeStar) 
+
+- Operating System: Windows, Linux
+
+- IDE: Eclipse, IntelliJ, Visual Studio Code
+
 
 #### Happy coding!
 
@@ -48,7 +51,9 @@ IDE: Eclipse, IntelliJ, Visual Studio Code
 **mohaiminur/mohaiminur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+```md
+lol
+```
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
