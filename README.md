@@ -12,10 +12,10 @@
 
 I can work with Java , JavaScript/TypeScript, Php, Kotlin, C++ and C but I am expert and love to code with Java. I am expert and experienced in Web Application development with Spring Boot and Angular and also have experienced with Android application development.
 
-### Things you should know
+### Things you should know about my skill
 
 - 🔭 <b>Currently working on:</b> Spring Boot, Angular
-- 🌱 <b>Getting better at:</b> Java, TypeScript/JavaScript
+- 🌱 <b>Getting better at:</b> Java, TypeScript
 - 🤔 <b>Exploring:</b> Docker, Microservices
 - 💬 <b>Ask me about:</b> Java, Javascript, Japanese, Sports
 - 📫 <b>How to reach me:</b> ...[Facebook](https://www.facebook.com/mohaiminur404/)
