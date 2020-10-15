@@ -18,7 +18,7 @@ I can work with Java , JavaScript/TypeScript, Php, Kotlin, C++ and C but I am ex
 - 🌱 <b>Getting better at:</b> Java, TypeScript
 - 🤔 <b>Exploring:</b> Docker, Microservices
 - 💬 <b>Ask me about:</b> Java, Javascript, Japanese, Sports
-- 📫 <b>How to reach me:</b> ...[Facebook](https://www.facebook.com/mohaiminur404/)
+- 📫 <b>How to reach me:</b> ...[LinkedIn](https://www.linkedin.com/in/mohaiminur/)
 
 ### My Stacks
 
