@@ -24,12 +24,12 @@ I can work with Java , JavaScript/TypeScript, Php, Kotlin, C++ and C but I am ex
 
 
 
-- Programming: Java, JavaScript, TypeScript, Php, C++, C
-- Backend: Spring Boot, Hibernate, Restful Services, Microservices
-- Frontend: Angular, Bootstrap, HTML5, CSS3, Android
-- Database: MySQL, PostgreSQL, Firebase
-- TDD: JUnit, Mockito
-- Other Tech: Maven, GitHub, AWS(EC2, CodeStar), Linux
+- <b>Programming:</b> Java, JavaScript, TypeScript, Php, C++, C
+- <b>Backend:</b> Spring Boot, Hibernate, Restful Services, Microservices
+- <b>Frontend:</b> Angular, Bootstrap, HTML5, CSS3, Android
+- <b>Database:</b> MySQL, PostgreSQL, Firebase
+- <b>TDD:</b> JUnit, Mockito
+- <b>Other Tech:</b> Maven, GitHub, AWS(EC2, CodeStar), Linux
 
 
 
