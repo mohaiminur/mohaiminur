@@ -7,7 +7,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/mohaiminur/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:sifat404040@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
-> Full-stack Software Engineer(Java)  <br />
+<br> Full-stack Software Engineer(Java)  <br />
 
 
 I can work with Java , JavaScript/TypeScript, Php, Kotlin, C++ and C but I am expert and love to code with Java. I am expert and experienced in Web Application development with Spring Boot and Angular and also have experienced with Android application development.
@@ -33,7 +33,10 @@ I can work with Java , JavaScript/TypeScript, Php, Kotlin, C++ and C but I am ex
 
 
 
-#### Happy coding!
+
+ “Truth can only be found in one place: the code.”
+ ― Robert C. Martin, Clean Code
+ #### Happy coding!
 
 <!--
 **mohaiminur/mohaiminur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
