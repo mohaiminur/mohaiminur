@@ -10,7 +10,7 @@
 <br> Full-stack Software Engineer(Java)  <br />
 
 
-I can work with Java , JavaScript/TypeScript, Php, Kotlin, C++ and C but I am expert and love to code with Java. I am expert and experienced in Web Application development with Spring Boot and Angular and also have experienced with Android application development.
+I am expert and experienced in Web Application development with Spring Boot and Angular and also have experienced with Android application development.
 
 ### My Stacks
 
