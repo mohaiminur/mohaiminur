@@ -12,15 +12,6 @@
 
 I can work with Java , JavaScript/TypeScript, Php, Kotlin, C++ and C but I am expert and love to code with Java. I am expert and experienced in Web Application development with Spring Boot and Angular and also have experienced with Android application development.
 
-### Things you should know about my skill
-
-- 🔭 <b>Currently working on:</b> Spring Boot, Angular
-- 🌱 <b>Getting better at:</b> Java, TypeScript
-- 🤔 <b>Exploring:</b> Docker, Microservices
-- 💬 <b>Ask me about:</b> Java, Javascript, Japanese, Sports
-- 📫 <b>How to reach me:</b> ...[LinkedIn](https://www.linkedin.com/in/mohaiminur/)...[Instagram](https://www.instagram.com/sifat_404/)
-
-
 ### My Stacks
 
 
@@ -31,11 +22,21 @@ I can work with Java , JavaScript/TypeScript, Php, Kotlin, C++ and C but I am ex
 - <b>Database:</b> MySQL, PostgreSQL, Firebase
 - <b>TDD:</b> JUnit, Mockito
 - <b>Other Tech:</b> Maven, GitHub, AWS(EC2, CodeStar), Linux
+- <b>How to reach me:</b> ...[LinkedIn](https://www.linkedin.com/in/mohaiminur/)...[Instagram](https://www.instagram.com/callmesifat/)
 
 
 
 
 <!--
+
+
+### Things you should know about my skill
+
+- 🔭 <b>Currently working on:</b> Spring Boot, Angular
+- 🌱 <b>Getting better at:</b> Java, TypeScript
+- 🤔 <b>Exploring:</b> Docker, Microservices
+- 💬 <b>Ask me about:</b> Java, Javascript, Japanese, Sports
+- 📫 <b>How to reach me:</b> ...[LinkedIn](https://www.linkedin.com/in/mohaiminur/)...[Instagram](https://www.instagram.com/sifat_404/)
 **mohaiminur/mohaiminur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
