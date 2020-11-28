@@ -1,7 +1,7 @@
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=mohaiminur&&show_icons=true&theme=tokyonight&count_private=true" alt="mohaiminur's Github Stats"/>](https://github.com/mohaiminur)
 
-### Hi!  👋, I'm Mohaiminur!
+### Hi 👋, I'm Mohaiminur!
 <!--
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=222244&labelColor=000000&logo=twitter&logoColor=f5f7fe&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3DMohaiminur&suffix=%20Followers)](https://twitter.com/mohaiminur404) -->
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/mohaiminur/)
