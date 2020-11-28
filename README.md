@@ -10,7 +10,7 @@
 <br> Full-stack Software Engineer(Java)  <br />
 
 
-I am expert in Web Application development with Spring Boot and Angular and also have experienced with Android application development.
+I am expert and experienced in Web Application development with Spring Boot and Angular and also have experienced with Android application development.
 
 ### My Stacks
 
