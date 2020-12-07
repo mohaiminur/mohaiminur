@@ -25,7 +25,7 @@ I am expert and experienced in Web Application development with Spring Boot and 
 - <b>Database:</b> MySQL, PostgreSQL, Firebase
 - <b>TDD:</b> JUnit, Mockito
 - <b>Other Tech:</b> Maven, GitHub, AWS(EC2, CodeStar), Linux
-- <b>How to reach me:</b> ...[LinkedIn](https://www.linkedin.com/in/mohaiminur/)...[Instagram](https://www.instagram.com/callmesifat/)
+- <b>How to reach me:</b> ...[LinkedIn](https://www.linkedin.com/in/mohaiminur/)...[Instagram](https://www.instagram.com/_sifat404/)
 
 
 
