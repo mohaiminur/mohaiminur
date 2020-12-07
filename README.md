@@ -21,7 +21,7 @@ I am expert and experienced in Web Application development with Spring Boot and 
 ### My Stacks
 - <b>Programming:</b> Java, JavaScript, TypeScript, Php, C++, C
 - <b>Backend:</b> Spring Boot, Hibernate, Restful Services, Microservices
-- <b>Frontend:</b> Angular, Bootstrap, HTML5, CSS3, Android
+- <b>Frontend:</b> Angular, Bootstrap, Thymeleaf, HTML5, CSS3, Android
 - <b>Database:</b> MySQL, PostgreSQL, Firebase
 - <b>TDD:</b> JUnit, Mockito
 - <b>Other Tech:</b> Maven, GitHub, AWS(EC2, CodeStar), Linux
