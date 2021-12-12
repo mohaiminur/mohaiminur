@@ -10,7 +10,7 @@
 <br> Software Engineer(Full Stack)  <br />
 
 
-I am expert and experienced in Backend Web Application development with Java(Spring), Go(Gin) and Android Application Development.Currently working in  Spring Boot with Java,EhCache,Go with gin, MySql Go-Cache, Redis etc  for Baekend  api on a Application called [Toffee](https://play.google.com/store/apps/details?id=com.banglalink.toffee&hl=en&gl=US) which need more than 20 Million users to handle.(currently this apps is accessable from Bangladesh only
+I am expert and experienced in Backend Web Application development with Java, Go and Android Application Development.Currently working in  Spring Boot with Java,EhCache,Go with gin, MySql Go-Cache, Redis etc  for Baekend  api on a Application called [Toffee](https://play.google.com/store/apps/details?id=com.banglalink.toffee&hl=en&gl=US) which need more than 20 Million users to handle.(currently this apps is accessable from Bangladesh only
 
 
 ## Technologies
