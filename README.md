@@ -7,10 +7,10 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/mohaiminur/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:sifat404040@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
-<br> Full-stack Software Engineer(Java)  <br />
+<br> Software Engineer(Backend)  <br />
 
 
-I am expert and experienced in Web Application development with Spring Boot and Angular and also have experienced with Android application development.
+I am expert and experienced in Backend Web Application development with Java(Spring), Go(Gin).
 
 
 ## Technologies
@@ -19,12 +19,12 @@ I am expert and experienced in Web Application development with Spring Boot and 
 
 
 ### My Stacks
-- <b>Programming:</b> Java, JavaScript, TypeScript, Php, C++, C
-- <b>Backend:</b> Spring Boot, Hibernate, Restful Services, Microservices
+- <b>Programming:</b> Java, Go, JavaScript, TypeScript, C
+- <b>Backend:</b> Spring Boot,Gin, Hibernate, Restful Services, Microservices
 - <b>Frontend:</b> Angular, Bootstrap, Thymeleaf, HTML5, CSS3, Android
-- <b>Database:</b> MySQL, PostgreSQL, Firebase
+- <b>Database:</b> MySQL, PostgreSQL
 - <b>TDD:</b> JUnit, Mockito
-- <b>Other Tech:</b> Maven, GitHub, AWS(EC2, CodeStar), Linux
+- <b>Other Tech:</b> Maven, GitHub, AWS(EC2, CodeStar),ElasticSearch, Linux
 - <b>How to reach me:</b> ...[LinkedIn](https://www.linkedin.com/in/mohaiminur/)...[Instagram](https://www.instagram.com/_sifat404/)
 
 
@@ -35,8 +35,8 @@ I am expert and experienced in Web Application development with Spring Boot and 
 
 ### Things you should know about my skill
 
-- 🔭 <b>Currently working on:</b> Spring Boot, Angular
-- 🌱 <b>Getting better at:</b> Java, TypeScript
+- 🔭 <b>Currently working on:</b> Spring Boot, Go
+- 🌱 <b>Getting better at:</b> Java, Go
 - 🤔 <b>Exploring:</b> Docker, Microservices
 - 💬 <b>Ask me about:</b> Java, Javascript, Japanese, Sports
 - 📫 <b>How to reach me:</b> ...[LinkedIn](https://www.linkedin.com/in/mohaiminur/)...[Instagram](https://www.instagram.com/sifat_404/)
