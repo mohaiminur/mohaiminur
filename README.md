@@ -10,21 +10,19 @@
 <br> Software Engineer(Full Stack)  <br />
 
 
-I am expert and experienced in Web Application development with Java, Go and Android Application Development.Currently working in  Spring Boot with Java,EhCache,Go with Gin, MySql Go-Cache, Redis etc  for Backend  api on a Application called [Toffee](https://play.google.com/store/apps/details?id=com.banglalink.toffee&hl=en&gl=US) which has more than 20 Million users.(Currently this apps is accessable from Bangladesh only)
+I am expert and experienced in Backend Application development with Java, Go .Currently working in  Spring Boot with Java,EhCache,Go with Gin, MySql Go-Cache, Redis etc  for Backend  api on a Application called [Toffee](https://play.google.com/store/apps/details?id=com.banglalink.toffee&hl=en&gl=US) which has more than 20 Million users.(Currently this apps is accessable from Bangladesh only)
 
 
 ## Technologies
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
- <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 
 
 ### My Stacks
 - <b>Programming:</b> Java, Go, JavaScript, TypeScript, C
 - <b>Backend:</b> Spring Boot,Gin, Hibernate, Restful Services, Microservices
-- <b>Frontend:</b> Angular, Bootstrap, Thymeleaf, HTML5, CSS3, Android
+- <b>Frontend:</b> Angular, Bootstrap, Thymeleaf, HTML5, CSS3
 - <b>Database:</b> MySQL, PostgreSQL
 - <b>TDD:</b> JUnit, Mockito
-- <b>Other Tech:</b> Maven, GitHub, AWS(EC2, CodeStar),ElasticSearch, Linux
 - <b>How to reach me:</b> ...[LinkedIn](https://www.linkedin.com/in/mohaiminur/)...[Instagram](https://www.instagram.com/_sifat404/)
 
 
@@ -38,8 +36,8 @@ I am expert and experienced in Web Application development with Java, Go and And
 - 🔭 <b>Currently working on:</b> Spring Boot, Go
 - 🌱 <b>Getting better at:</b> Java, Go
 - 🤔 <b>Exploring:</b> Docker, Microservices
-- 💬 <b>Ask me about:</b> Java, Javascript, Japanese, Sports
-- 📫 <b>How to reach me:</b> ...[LinkedIn](https://www.linkedin.com/in/mohaiminur/)...[Instagram](https://www.instagram.com/sifat_404/)
+- 💬 <b>Ask me about:</b> Java, Golang, Japanese, Sports
+- 📫 <b>How to reach me:</b> ...[LinkedIn](https://www.linkedin.com/in/mohaiminur/)...[Instagram](https://www.instagram.com/notsifat_/)
 **mohaiminur/mohaiminur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -48,7 +46,9 @@ I am expert and experienced in Web Application development with Java, Go and And
  ― Robert C. Martin, Clean Code
  #### Happy coding!
 
-
+## Technologies
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+ <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 
 Here are some ideas to get you started:
 ```md
