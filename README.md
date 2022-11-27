@@ -23,7 +23,7 @@ I am expert and experienced in Backend Application development with Java, Go .Cu
 - <b>Frontend:</b> Angular, Bootstrap, Thymeleaf, HTML5, CSS3
 - <b>Database:</b> MySQL, PostgreSQL
 - <b>TDD:</b> JUnit, Mockito
-- <b>How to reach me:</b> ...[LinkedIn](https://www.linkedin.com/in/mohaiminur/)...[Instagram](https://www.instagram.com/_sifat404/)
+- <b>How to reach me:</b> ...[LinkedIn](https://www.linkedin.com/in/mohaiminur/)...[Instagram](https://www.instagram.com/notsifat_/)
 
 
 
