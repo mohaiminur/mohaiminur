@@ -19,7 +19,7 @@ I am expert and experienced in Backend Application development with Java, Go. Cu
 - 🌱 <b>Hobby:</b> Problem Solving, Gaming, Travelling
 - 💬 <b>Ask me about:</b> Java, Spring Boot, Golang, MySql, Microservices
 - 📫 <b>How to reach me:</b>  [LinkedIn](https://www.linkedin.com/in/mohaiminur/)
-- 💬 <b>Other link:<b> [HackerRank](https://www.hackerrank.com/mohaiminur) --- [Youtube](https://www.youtube.com/@notsifat)
+- 💬 <b>Other link:<b> [HackerRank](https://www.hackerrank.com/mohaiminur), [Youtube](https://www.youtube.com/@notsifat)
 </br>
  “Truth can only be found in one place: the code.”</br>
  ― Robert C. Martin, Clean Code </br> </br> 
